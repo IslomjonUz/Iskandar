@@ -1,0 +1,12 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+ul{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+li{
+    color: red;
+}
